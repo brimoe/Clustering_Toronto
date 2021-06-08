@@ -1,2 +1,5 @@
-# Coursera_Capstone
-Capstone Project Notebook for Peer-graded Assignment Week 1
+# Segmenting and Clustering Neighborhoods in Toronto
+### IBM Applied Data Science Capstone: Case Study Project 
+
+Date: Feb 2021
+
